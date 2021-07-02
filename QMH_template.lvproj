@@ -13,11 +13,11 @@
 		<Item Name="Sub VIs" Type="Folder">
 			<Item Name="consumer.vi" Type="VI" URL="../Sub VIs/consumer.vi"/>
 			<Item Name="consumer_two.vi" Type="VI" URL="../Sub VIs/consumer_two.vi"/>
+			<Item Name="make_q.vi" Type="VI" URL="../Sub VIs/make_q.vi"/>
 		</Item>
 		<Item Name="Type Defs" Type="Folder">
 			<Item Name="Local Data.ctl" Type="VI" URL="../Type Defs/Local Data.ctl"/>
 			<Item Name="Message.ctl" Type="VI" URL="../Type Defs/Message.ctl"/>
-			<Item Name="User Event.ctl" Type="VI" URL="../Type Defs/User Event.ctl"/>
 		</Item>
 		<Item Name="multiple_consumer.vi" Type="VI" URL="../multiple_consumer.vi"/>
 		<Item Name="one_consumer.vi" Type="VI" URL="../one_consumer.vi"/>
